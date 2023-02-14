@@ -5,6 +5,7 @@ import ReactPlayer from "react-player";
 const About = () => {
   const randomImageUrl = "https://picsum.photos/400/265";
   const vidUrl = "https://fb.watch/iCBqfLtGBt/";
+  console.log("object");
   
   return (
     <div>
